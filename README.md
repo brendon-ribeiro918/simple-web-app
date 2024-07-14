@@ -1,2 +1,4 @@
-# sme
-Simplest programming language written in JavaScript for front-end developer(tutorial purpose).
+# Simple Dynamic Web Application
+
+This web application project is a straightforward one with a dynamic element that has been coded in JavaScript.
+Have fun using this app!
